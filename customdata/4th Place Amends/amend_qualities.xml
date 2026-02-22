@@ -834,6 +834,16 @@
 			<hide />
 		</quality>
 		<quality>
+			<!-- Networker -->
+			<name>Networker</name>
+			<hide />
+		</quality>
+		<quality>
+			<!-- Massive Network -->
+			<name>Massive Network</name>
+			<hide />
+		</quality>
+		<quality>
 			<!-- The Twisted Way -->
 			<name>The Twisted Way</name>
 			<hide />
@@ -1578,12 +1588,7 @@
 		</quality>
 		<quality>
 			<!-- 'Ware Intolerance -->
-			<name>Ware Intolerance</name>
-			<hide />
-		</quality>
-		<quality>
-			<!-- Items of Power -->
-			<name>Items  of Power</name>
+			<name>'Ware Intolerance</name>
 			<hide />
 		</quality>
 		<!-- End Region -->
@@ -3388,6 +3393,12 @@
 				</focusbindingkarmacost>
 			</bonus>
       		<notes>Warrior's Way also reduces the Attunement costs for weapons by 2.</notes>
+		</quality>
+		<quality>
+		<name>Prime Datahaven Membership</name>
+		<bonus>
+			<selecttext />
+		</bonus>
 		</quality>
 	</qualities>
 </chummer>
