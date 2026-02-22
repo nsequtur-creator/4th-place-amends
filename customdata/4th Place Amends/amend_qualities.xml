@@ -834,16 +834,6 @@
 			<hide />
 		</quality>
 		<quality>
-			<!-- Networker -->
-			<name>Networker</name>
-			<hide />
-		</quality>
-		<quality>
-			<!-- Massive Network -->
-			<name>Massive Network</name>
-			<hide />
-		</quality>
-		<quality>
 			<!-- The Twisted Way -->
 			<name>The Twisted Way</name>
 			<hide />
@@ -1588,7 +1578,12 @@
 		</quality>
 		<quality>
 			<!-- 'Ware Intolerance -->
-			<name>'Ware Intolerance</name>
+			<name>Ware Intolerance</name>
+			<hide />
+		</quality>
+		<quality>
+			<!-- Items of Power -->
+			<name>Items  of Power</name>
 			<hide />
 		</quality>
 		<!-- End Region -->
